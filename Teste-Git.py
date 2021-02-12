@@ -1,3 +1,2 @@
-print("Olá Mundo")
-print("#Funcionou???")
-print("Primeira Modificação")
+print("Primeira Modificação N")
+print("1 + 1 = 2")
